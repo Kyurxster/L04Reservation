@@ -126,10 +126,10 @@
                 android:orientation="horizontal">
 
                 <TextView
-                    android:id="@+id/textViewSmoking"
+                    android:id="@+id/textViewArea"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/smoking"
+                    android:text="@string/area"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
                 <RadioGroup
@@ -148,7 +148,8 @@
                         android:id="@+id/radioButtonNonSmoking"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/nonSmokingBtn" />
+                        android:text="@string/nonSmokingBtn"
+                        android:checked="true"/>
                 </RadioGroup>
 
             </LinearLayout>

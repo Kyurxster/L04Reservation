@@ -8,7 +8,7 @@
     <string name="group_sizeHint">Enter group size</string>
     <string name="date">Date: </string>
     <string name="time">Time:</string>
-    <string name="smoking">Smoking:</string>
+    <string name="area">Area:</string>
     <string name="nonSmokingBtn">Non-Smoking</string>
     <string name="smokingBtn">Smoking</string>
     <string name="display">Display</string>
